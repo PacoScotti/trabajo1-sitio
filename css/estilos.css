@@ -1,0 +1,16 @@
+*{padding: 0;margin: 0;}
+
+
+body{ background-image: url("img/bg_3229.png"); margin: 0 10% 0 10%; border: 1px solid black; 
+}
+
+div {display: flex; padding: 10px; background-image: url("img/footer.jpg");} 
+h1 {padding: 20px;}
+
+.personajes {border-radius:100%; width: 30%; height: max-content;}
+.descripcion {width: 100%;font-family: serif; font-size: medium; }
+.descripciont {width: 60%; }
+.todos {width: 100%;}
+.fotofooter {width: 100%;}
+
+
